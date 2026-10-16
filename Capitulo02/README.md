@@ -8,7 +8,7 @@ En este taller amplías la base a más de 50 documentos y comparas tres formas d
 
 Trabajas en **Windows Server** con **Visual Studio Code**. El equipo ya está preparado. Tú no instalas programas, librerías ni bases de datos.
 
-Quien prepara el equipo sigue [Prerequisitos.md](Prerequisitos.md). Si eres participante, quédate en esta guía. El primer taller ya debe estar hecho: Qdrant encendido y la colección `financial_products_basic` conservada.
+Quien prepara el equipo sigue [Prerrequisitos.md](Prerrequisitos.md). Si eres participante, quédate en esta guía. El primer taller ya debe estar hecho: Qdrant encendido y la colección `financial_products_basic` conservada.
 
 ## Qué vas a aprender
 

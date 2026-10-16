@@ -1,6 +1,4 @@
----LAB_START---
-LAB_ID: 01-00-01
----MARKDOWN---
+
 
 # Consulta de productos financieros con documentos de apoyo
 
@@ -10,7 +8,7 @@ En este taller vas a hacer que un asistente responda preguntas sobre productos f
 
 Trabajas en **Windows Server** con **Visual Studio Code**. El equipo ya está preparado. Tú no instalas programas, librerías ni bases de datos.
 
-Quien prepara el equipo sigue [Prerequisitos.md](Prerequisitos.md). Si eres participante, quédate en esta guía.
+Quien prepara el equipo sigue [Prerrequisitos.md](Prerrequisitos.md). Si eres participante, quédate en esta guía.
 
 ## Qué vas a aprender
 
